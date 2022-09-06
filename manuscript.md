@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-bobson/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-bobson/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/cee-492-term-project-fall-2022-bobson/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-bobson/v/026ad5da309996943e77b44a9ffc24d1edb75574/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-bobson/v/026ad5da309996943e77b44a9ffc24d1edb75574/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-bobson/v/026ad5da309996943e77b44a9ffc24d1edb75574/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-bobson/v/0c5ef1d7012560922d992f2d23fd984d769c82ff/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-bobson/v/0c5ef1d7012560922d992f2d23fd984d769c82ff/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-bobson/v/0c5ef1d7012560922d992f2d23fd984d769c82ff/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-bobson/v/026ad5da309996943e77b44a9ffc24d1edb75574/))
+([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-bobson/v/0c5ef1d7012560922d992f2d23fd984d769c82ff/))
 was automatically generated
-from [uiceds/cee-492-term-project-fall-2022-bobson@026ad5d](https://github.com/uiceds/cee-492-term-project-fall-2022-bobson/tree/026ad5da309996943e77b44a9ffc24d1edb75574)
+from [uiceds/cee-492-term-project-fall-2022-bobson@0c5ef1d](https://github.com/uiceds/cee-492-term-project-fall-2022-bobson/tree/0c5ef1d7012560922d992f2d23fd984d769c82ff)
 on September 6, 2022.
 </em></small>
 
